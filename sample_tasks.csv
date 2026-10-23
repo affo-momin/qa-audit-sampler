@@ -1,0 +1,121 @@
+task_id,annotator,label,query
+T0001,ann_a,off_topic,how to file itr
+T0002,ann_a,relevant,how to file itr
+T0003,ann_b,off_topic,cheap flights delhi
+T0004,ann_c,relevant,weather pune
+T0005,ann_a,partially_relevant,python list sort
+T0006,ann_a,partially_relevant,how to file itr
+T0007,ann_c,partially_relevant,weather pune
+T0008,ann_a,relevant,python list sort
+T0009,ann_c,partially_relevant,cheap flights delhi
+T0010,ann_a,relevant,how to file itr
+T0011,ann_a,relevant,cheap flights delhi
+T0012,ann_a,partially_relevant,how to file itr
+T0013,ann_b,partially_relevant,weather pune
+T0014,ann_c,partially_relevant,python list sort
+T0015,ann_b,relevant,cheap flights delhi
+T0016,ann_a,partially_relevant,python list sort
+T0017,ann_a,partially_relevant,best rice cooker
+T0018,ann_b,partially_relevant,weather pune
+T0019,ann_c,relevant,how to file itr
+T0020,ann_c,partially_relevant,how to file itr
+T0021,ann_a,relevant,cheap flights delhi
+T0022,ann_a,off_topic,python list sort
+T0023,ann_b,partially_relevant,how to file itr
+T0024,ann_c,relevant,python list sort
+T0025,ann_c,relevant,best rice cooker
+T0026,ann_a,relevant,weather pune
+T0027,ann_b,relevant,best rice cooker
+T0028,ann_a,partially_relevant,python list sort
+T0029,ann_a,relevant,weather pune
+T0030,ann_b,relevant,cheap flights delhi
+T0031,ann_c,off_topic,cheap flights delhi
+T0032,ann_b,off_topic,best rice cooker
+T0033,ann_c,relevant,how to file itr
+T0034,ann_a,relevant,best rice cooker
+T0035,ann_a,relevant,cheap flights delhi
+T0036,ann_c,partially_relevant,cheap flights delhi
+T0037,ann_a,partially_relevant,best rice cooker
+T0038,ann_c,relevant,python list sort
+T0039,ann_a,relevant,best rice cooker
+T0040,ann_b,relevant,weather pune
+T0041,ann_b,partially_relevant,how to file itr
+T0042,ann_b,off_topic,how to file itr
+T0043,ann_a,off_topic,how to file itr
+T0044,ann_a,partially_relevant,python list sort
+T0045,ann_a,partially_relevant,best rice cooker
+T0046,ann_c,relevant,how to file itr
+T0047,ann_b,relevant,weather pune
+T0048,ann_c,relevant,cheap flights delhi
+T0049,ann_b,off_topic,how to file itr
+T0050,ann_a,relevant,best rice cooker
+T0051,ann_b,relevant,best rice cooker
+T0052,ann_c,relevant,weather pune
+T0053,ann_a,off_topic,cheap flights delhi
+T0054,ann_a,relevant,best rice cooker
+T0055,ann_b,relevant,how to file itr
+T0056,ann_c,relevant,python list sort
+T0057,ann_b,relevant,best rice cooker
+T0058,ann_b,off_topic,best rice cooker
+T0059,ann_a,partially_relevant,cheap flights delhi
+T0060,ann_a,off_topic,python list sort
+T0061,ann_a,partially_relevant,python list sort
+T0062,ann_a,relevant,best rice cooker
+T0063,ann_a,partially_relevant,cheap flights delhi
+T0064,ann_a,off_topic,best rice cooker
+T0065,ann_b,relevant,weather pune
+T0066,ann_a,relevant,best rice cooker
+T0067,ann_a,off_topic,weather pune
+T0068,ann_a,relevant,cheap flights delhi
+T0069,ann_a,partially_relevant,python list sort
+T0070,ann_b,off_topic,python list sort
+T0071,ann_a,relevant,cheap flights delhi
+T0072,ann_c,relevant,how to file itr
+T0073,ann_a,partially_relevant,best rice cooker
+T0074,ann_c,relevant,weather pune
+T0075,ann_b,partially_relevant,best rice cooker
+T0076,ann_b,off_topic,weather pune
+T0077,ann_a,partially_relevant,python list sort
+T0078,ann_a,relevant,weather pune
+T0079,ann_c,partially_relevant,weather pune
+T0080,ann_c,relevant,cheap flights delhi
+T0081,ann_b,partially_relevant,best rice cooker
+T0082,ann_c,relevant,python list sort
+T0083,ann_a,off_topic,best rice cooker
+T0084,ann_a,relevant,cheap flights delhi
+T0085,ann_a,partially_relevant,python list sort
+T0086,ann_b,off_topic,cheap flights delhi
+T0087,ann_a,partially_relevant,cheap flights delhi
+T0088,ann_a,partially_relevant,best rice cooker
+T0089,ann_a,relevant,how to file itr
+T0090,ann_c,partially_relevant,cheap flights delhi
+T0091,ann_c,relevant,best rice cooker
+T0092,ann_a,relevant,how to file itr
+T0093,ann_b,relevant,best rice cooker
+T0094,ann_a,relevant,cheap flights delhi
+T0095,ann_c,relevant,python list sort
+T0096,ann_a,relevant,python list sort
+T0097,ann_a,partially_relevant,how to file itr
+T0098,ann_b,relevant,best rice cooker
+T0099,ann_a,relevant,how to file itr
+T0100,ann_c,partially_relevant,weather pune
+T0101,ann_a,partially_relevant,best rice cooker
+T0102,ann_a,relevant,python list sort
+T0103,ann_a,relevant,cheap flights delhi
+T0104,ann_a,partially_relevant,cheap flights delhi
+T0105,ann_a,partially_relevant,how to file itr
+T0106,ann_b,relevant,python list sort
+T0107,ann_b,relevant,best rice cooker
+T0108,ann_b,partially_relevant,how to file itr
+T0109,ann_a,relevant,best rice cooker
+T0110,ann_a,relevant,weather pune
+T0111,ann_a,relevant,how to file itr
+T0112,ann_a,partially_relevant,cheap flights delhi
+T0113,ann_c,relevant,cheap flights delhi
+T0114,ann_b,partially_relevant,how to file itr
+T0115,ann_c,partially_relevant,cheap flights delhi
+T0116,ann_c,partially_relevant,cheap flights delhi
+T0117,ann_b,partially_relevant,best rice cooker
+T0118,ann_b,partially_relevant,weather pune
+T0119,ann_a,relevant,python list sort
+T0120,ann_c,relevant,how to file itr
